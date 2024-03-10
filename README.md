@@ -36,6 +36,8 @@ To interact with the model locally:
    ```
 4. The app will open in your default web browser for you to upload images and view classifications.
 
+   ![Emotion Detector Demo](streamlit.png)
+
 ## Conclusion and Future Work
 
 While the model demonstrates high accuracy and performance, future work will focus on enriching the dataset, addressing potential overfitting, and enhancing the model's generalization capabilities. Deploying the app on a cloud platform and enabling continuous learning from new data and user interactions are also planned.
