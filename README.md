@@ -6,7 +6,7 @@ This project aims to develop a machine learning model capable of classifying hum
 
 ## Dataset Description
 
-The dataset was curated using the "Download All Images - zip" Google Chrome extension, targeting images with specific emotion-related keywords. After downloading, images smaller than 10KB were manually removed to ensure high-quality and relevance. This curated collection forms the basis of our model training, focusing on a diverse representation of human emotions.
+The dataset  was curated using the "Download All Images - zip" Google Chrome extension, targeting images with specific emotion-related keywords. After downloading, images smaller than 10KB were manually removed to ensure high-quality and relevance. This curated collection forms the basis of our model training, focusing on a diverse representation of human emotions.  (data folder used was too large to upload to github- can be provided upon request)
 
 ## Model Architecture
 
